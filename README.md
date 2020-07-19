@@ -1,4 +1,9 @@
-### Hi there 👋
+
+<h1>Hi there, I'm Joseph 👋</h1>
+
+
+I'm a Senior in College, studying Computer Science and Cognitive Science.
+
 
 <!--
 **jmh07/jmh07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
